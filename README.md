@@ -3,7 +3,7 @@
 We will work through all 3 Tree Methods and compare their results on a college dataset </br>
 This dataset has features of universities and labeled either Private or Public</br>
 
-<h2> Features </h2>
+<h2> Features of the College Dataset </h2>
 <p>Private A factor with levels No and Yes indicating private or public university</p>
 <p>Apps Number of applications received</p>
 <p>Accept Number of applications accepted</p>
